@@ -15,7 +15,7 @@ The script is able to produce two hypothetical cases (the model simulates five h
 
 Two cases: original DEM and DEM with artificially added closed water gate
 
-![Two cases]](https://github.com/wonder-sk/floodhack2016-jakarta/blob/master/output/presentation_jakarta_case_1_case_2.png)
+![Two cases](https://github.com/wonder-sk/floodhack2016-jakarta/blob/master/output/presentation_jakarta_case_1_case_2.png)
 
 ## Outputs
 
